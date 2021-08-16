@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        " \"rust-client.rustupPath\"": "\"~/.cargo/bin/rustup\""
+    },
+    "rust-client.channel": null
+}
