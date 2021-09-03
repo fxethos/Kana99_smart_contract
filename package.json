@@ -25,7 +25,7 @@
   "dependencies": {
     "@project-serum/sol-wallet-adapter": "^0.2.5",
     "@solana/web3.js": "^1.7.0",
-    "borsh": "^0.4.0",
+    "borsh": "^0.6.0",
     "mz": "^2.7.0",
     "solana-json": "^1.0.2",
     "yaml": "^1.10.2"
